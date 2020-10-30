@@ -5,7 +5,7 @@
 #   CUDA version 10.0
 #   OpenMPI version 4.0.1
 #   PGI compilers version 19.10
-# 
+# ciao
 
 FROM nvidia/cuda:10.0-devel-centos7 AS devel
 
